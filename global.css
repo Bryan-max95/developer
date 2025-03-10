@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .text-edge-outline {
+    -webkit-text-stroke: 1px rgba(200, 200, 200, 0.673);
+  }
+} 
+
+/* Animación del carrusel de proyectos */
+.carousel-proyectos {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.carousel-track-proyectos {
+  display: flex;
+  width: max-content;
+  animation: scroll-proyectos 90s linear infinite;
+}
+
+.carousel-item-proyectos {
+  min-width: 250px;
+  max-width: 250px;
+  margin-right: 1rem;
+}
+
+@keyframes scroll-proyectos {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* Animación del carrusel de logos */
+.carousel-logos {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.carousel-track-logos {
+  display: flex;
+  width: max-content;
+  animation: scroll-logos 30s linear infinite;
+}
+
+.carousel-item-logos {
+  min-width: 150px;
+  max-width: 150px;
+  margin-right: 1rem;
+  background: rgba(255, 255, 255, 0.619);
+  border-radius: 50%;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@keyframes scroll-logos {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
