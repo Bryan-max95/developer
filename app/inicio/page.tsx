@@ -116,7 +116,7 @@ export default function HomePage() {
         <div className="mt-16">
           <h3 className="text-2xl font-bold text-zinc-100">¿Por qué elegir a DEVELOPER1995 como tu socio en desarrollo de software personalizado?</h3>
           <p className="mt-4 text-zinc-400">
-            Somos una empresa líder en desarrollo de software, con más de 12 años de experiencia en el mercado. Estamos presentes en 20 países. Nuestro equipo de desarrollo impulsa la excelencia, asegurando que entreguemos exactamente lo que tu negocio necesita. Confiado por gigantes de Fortune 500 como Intel, Luxottica, Jaguar Land Rover y Guinness, así como empresas medianas audaces y startups ambiciosas.
+            Somos un equipo de desarrolladores con sede en Honduras y Canadá, comprometidos con la excelencia y la satisfacción del cliente. Con años de experiencia en el desarrollo de software personalizado, hemos trabajado con empresas de diversos sectores, ayudándoles a alcanzar sus objetivos mediante soluciones tecnológicas innovadoras y escalables.Ya sea que necesites una aplicación móvil, una plataforma web, o un sistema empresarial a medida, estamos listos para convertir tus ideas en realidad.
           </p>
         </div>
 
