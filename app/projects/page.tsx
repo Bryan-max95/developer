@@ -19,14 +19,14 @@ export default function PortfolioPage() {
 
   const proyectosCiberseguridad = [
     { nombre: "Pentesting en Empresas", url: "#", imagen: "/1995.png" },
-    { nombre: "Herramienta de Seguridad", url: "#", imagen: "/c2.png" },
+    { nombre: "Herramienta de Seguridad", url: "#", imagen: "/19955.png" },
     { nombre: "Análisis de Vulnerabilidades", url: "#", imagen: "/c4.png" },
   ];
 
 
   const proyectos = [
     { nombre: "Pentesting en Empresas", url: "#", imagen: "/a1.jpeg" },
-    { nombre: "Herramienta de Seguridad", url: "#", imagen: "/a2.jpeg" },
+    { nombre: "Herramienta de Seguridad", url: "#", imagen: "/t2.jpeg" },
     { nombre: "Análisis de Vulnerabilidades", url: "#", imagen: "/a3.jpeg" },
     { nombre: "Pentesting en Empresas", url: "#", imagen: "/a4.jpeg" },
     { nombre: "Herramienta de Seguridad", url: "#", imagen: "/a5.jpeg" },
@@ -34,7 +34,7 @@ export default function PortfolioPage() {
     { nombre: "Pentesting en Empresas", url: "#", imagen: "/b3.jpeg" },
     { nombre: "Herramienta de Seguridad", url: "#", imagen: "/b4.jpeg" },
     { nombre: "Análisis de Vulnerabilidades", url: "#", imagen: "/b5.jpeg" },
-    { nombre: "Pentesting en Empresas", url: "#", imagen: "/f2.jpeg" },
+    { nombre: "Pentesting en Empresas", url: "#", imagen: "/x3.jpeg" },
     { nombre: "Herramienta de Seguridad", url: "#", imagen: "/f2.jpeg" },
     { nombre: "Análisis de Vulnerabilidades", url: "#", imagen: "/f3.jpeg" },
     { nombre: "Pentesting en Empresas", url: "#", imagen: "/f4.jpeg" },
