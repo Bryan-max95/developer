@@ -43,9 +43,9 @@ export default function HomePage() {
           <h2 className="text-4xl font-bold tracking-tight text-zinc-100 sm:text-5xl">
             Construye una solución de software personalizada para el crecimiento de tu negocio
           </h2>
-          <p className="mt-4 text-zinc-400">
-            Desde startups innovadoras hasta empresas Fortune 500, las empresas confían en nosotros para desarrollar, probar, actualizar y escalar sus productos digitales. Garantizamos un crecimiento sin problemas y un éxito duradero en cada paso del camino.
-          </p>
+            <p className="mt-4 text-zinc-400">
+              Ya sea que estés lanzando una startup o liderando una empresa consolidada, nos especializamos en crear, optimizar y escalar soluciones digitales que impulsan tu negocio. Nos comprometemos a ser tu aliado estratégico, asegurando un crecimiento sostenible y resultados que perduren en el tiempo.
+            </p>
         </div>
 
         <div className="w-full h-px bg-zinc-800" />
