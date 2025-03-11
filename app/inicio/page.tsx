@@ -104,9 +104,9 @@ export default function HomePage() {
         <div className="mt-16 space-y-8">
           <h3 className="text-2xl font-bold text-zinc-100">¿Por qué elegirnos?</h3>
           <div className="space-y-4">
-            <p className="text-zinc-400">1. El 27% (y creciendo) de nuestros compañeros en developer1995 y pentestingbw son profecionales en la area.</p>
-            <p className="text-zinc-400">2. Nuestra tasa de amibilidad con el cliente satifacer su idea es primordial.</p>
-            <p className="text-zinc-400">3. Tenemos un equipo de ingeniería que se trabaja de paises de Estados unidos Canada y Costarica y Honduras.</p>
+            <p className="text-zinc-400">1. Contamos con un equipo altamente especializado en desarrollo de software y ciberseguridad, con profesionales certificados en las últimas tecnologías.</p>
+            <p className="text-zinc-400">2. Nos destacamos por nuestra atención al cliente, asegurando que cada idea se traduzca en soluciones efectivas y personalizadas.</p>
+            <p className="text-zinc-400">3. Nuestra presencia en Honduras y Canadá nos permite ofrecer una combinación única de innovación, calidad y competitividad en costos.</p>
           </div>
         </div>
 
