@@ -32,19 +32,19 @@ export default function HomePage() {
   const suscripciones = [
     {
       nombre: "Plan Básico",
-      precio: "$650/mes soporte",
+      precio: "soporte",
       descripcion:
         "Acceso a servicios esenciales para el desarrollo de aplicaciones web, incluyendo diseño responsivo, desarrollo frontend básico y hosting en servidores optimizados. Ideal para pequeñas aplicaciones o sitios web personales.",
     },
     {
       nombre: "Plan Profesional",
-      precio: "$789/mes soporte",
+      precio: "soporte",
       descripcion:
         "Desarrollo web avanzado con implementación de frameworks modernos (React, Next.js, Angular, etc.), integración de APIs externas, optimización de rendimiento y soporte para despliegue continuo. Perfecto para aplicaciones de mediana escala o startups.",
     },
     {
       nombre: "Plan Enterprise",
-      precio: "$1400/mes soporte",
+      precio: "soporte",
       descripcion:
         "Solución integral para aplicaciones web empresariales con soporte para arquitecturas escalables, diseño UX/UI personalizado, integración con sistemas complejos y monitorización en tiempo real. Incluye seguridad avanzada, pruebas automatizadas y mantenimiento continuo.",
     },
@@ -160,7 +160,7 @@ export default function HomePage() {
         "Apasionado por el diseño visual y la identidad de marca, creando experiencias gráficas impactantes que conectan con el público.",
     },
     {
-      nombre: "Josué Amador",
+      nombre: "Josuél Amador",
       rol: "Especialista en Branding y Marketing",
       descripcion:
         "Experto en estrategias de marca y marketing digital, creando identidades visuales impactantes y campañas efectivas.",
