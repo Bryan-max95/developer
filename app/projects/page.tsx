@@ -18,7 +18,7 @@ export default function PortfolioPage() {
   ];
 
   const proyectosCiberseguridad = [
-    { nombre: "Pentesting en Empresas", url: "#", imagen: "/c1.png" },
+    { nombre: "Pentesting en Empresas", url: "#", imagen: "/1995.png" },
     { nombre: "Herramienta de Seguridad", url: "#", imagen: "/c2.png" },
     { nombre: "Análisis de Vulnerabilidades", url: "#", imagen: "/c4.png" },
   ];
