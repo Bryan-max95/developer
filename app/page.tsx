@@ -84,7 +84,7 @@ export default function Home() {
             href="#"
             className="underline duration-500 hover:text-zinc-300"
           >
-            pentestingbw.com
+            
           </Link>{" "}
           Creating a cyber security analyst website such as Hackin Etico, for
           companies that need pentesting
